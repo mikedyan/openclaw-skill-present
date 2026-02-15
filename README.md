@@ -20,11 +20,7 @@ All in a single HTML file. Zero external dependencies (except optional Google Fo
 
 ## Install
 
-```bash
-clawhub install mikedyan/openclaw-skill-present
-```
-
-Or clone manually into your OpenClaw skills directory:
+Clone into your OpenClaw skills directory:
 
 ```bash
 git clone https://github.com/mikedyan/openclaw-skill-present.git \
