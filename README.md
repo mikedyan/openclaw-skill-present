@@ -50,6 +50,8 @@ Pick a starting point or describe your own:
 | 🎨 **Bold Creative** | Vivid colors, playful animations |
 | 🏢 **Corporate Sharp** | Clean, professional, data-forward |
 | 🌅 **Warm Narrative** | Earthy tones, storytelling flow |
+| 🌆 **Neon Retro** | Synthwave glows, dark canvas, Blade Runner energy |
+| 🌿 **Nature Organic** | Sage greens, paper textures, botanical calm |
 | ✨ **Custom** | Describe it and the agent builds it |
 
 ## How It Works
