@@ -52,6 +52,8 @@ Pick a starting point or describe your own:
 | 🌅 **Warm Narrative** | Earthy tones, storytelling flow |
 | 🌆 **Neon Retro** | Synthwave glows, dark canvas, Blade Runner energy |
 | 🌿 **Nature Organic** | Sage greens, paper textures, botanical calm |
+| 📰 **Editorial Print** | Magazine typography, black & white + one accent |
+| 🎪 **Playful Pop** | Candy colors, bouncy animations, doodle accents |
 | ✨ **Custom** | Describe it and the agent builds it |
 
 ## How It Works

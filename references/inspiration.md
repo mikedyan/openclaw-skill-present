@@ -69,6 +69,24 @@ Reference this when planning interactive elements. These are **seeds, not bounda
 - **Interactive ideas**: Growing tree diagrams (click to branch), water ripple on click, petal-scatter reveals, breathing circle timers
 - **Mood**: Calm authority. Like a TED talk in a botanical garden. Trust and warmth without being soft.
 
+### 📰 Editorial Print
+- **Colors**: Off-white (#fafaf7), near-black (#1a1a1a), one accent color (vermillion #e63b2e or deep blue #1a3c6e) used sparingly
+- **Typography**: Serif headers (Playfair Display, Freight), clean sans body (Inter, Helvetica Neue), large pull quotes in italic serif
+- **Background**: Clean off-white or very light warm grey. No texture, no noise — let the typography breathe
+- **Accents**: Thin horizontal rules, drop caps on opening paragraphs, columnar layouts, oversized numbers for statistics
+- **Transitions**: Clean crossfade with slight vertical shift. No flash, no gimmicks — content-first movement
+- **Interactive ideas**: Magazine-style scroll reveals, expandable footnotes, data visualizations that draw themselves in black ink, before/after photo comparisons
+- **Mood**: Authority without arrogance. Like reading a beautifully typeset longform piece. Every pixel is intentional.
+
+### 🎪 Playful Pop
+- **Colors**: Candy pink (#ff6b9d), electric blue (#4ecdc4), sunny yellow (#ffe66d), coral (#ff6b6b), lavender (#c3a6ff), white (#ffffff)
+- **Typography**: Rounded sans-serif (Nunito, Quicksand, Baloo), bold weights everywhere, generous letter-spacing on headers
+- **Background**: White or very light pastel with subtle confetti dots or hand-drawn squiggle borders
+- **Accents**: Thick rounded borders, playful rotation (elements tilted 1-3°), hand-drawn SVG underlines and arrows, emoji as design elements
+- **Transitions**: Bouncy spring physics (overshoot + settle), elements that pop in with scale bounce, playful wobble on hover
+- **Interactive ideas**: Scratch-to-reveal cards, drag-and-drop sorting games, animated sticker collections, progress bars with bouncing mascots, emoji reaction buttons
+- **Mood**: Saturday morning energy. Approachable, warm, zero intimidation. Like learning something new from your favorite teacher.
+
 ## Emotional Pacing
 
 Structure the presentation's energy like a story:

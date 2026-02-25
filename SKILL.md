@@ -24,6 +24,8 @@ Before writing a single line, clarify:
   - 🌅 **Warm Narrative** — Earthy tones, storytelling flow, intimate feel. Think fireside talk.
   - 🌆 **Neon Retro** — Dark canvas with electric neon glows, synthwave gradients, pixel accents. Think Blade Runner keynote meets arcade cabinet. Great for tech demos, creative pitches, anything that should feel futuristic and bold.
   - 🌿 **Nature Organic** — Soft earth tones, flowing organic shapes, gentle breathing animations. Think moss on stone, water ripples, handwritten texture. Great for wellness, sustainability, or any topic that needs to feel grounded and alive.
+  - 📰 **Editorial Print** — Magazine-quality typography, black and white with one accent color, grid layouts, serif headers. Think New York Times feature article turned into slides. Great for journalism, research presentations, data storytelling, or anything that needs to feel authoritative and polished.
+  - 🎪 **Playful Pop** — Bright candy colors, bouncy animations, hand-drawn doodle accents, rounded everything. Think a Pixar title sequence meets a whiteboard sketch. Great for education, team culture decks, onboarding, or anything that should feel approachable and fun.
   - ✨ **Custom** — "Describe it and I'll build it."
 
 Do NOT start building until you understand the content and the feel. A few good questions save hours of revision.
