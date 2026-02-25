@@ -49,6 +49,26 @@ Reference this when planning interactive elements. These are **seeds, not bounda
 | Aurora | Slowly morphing color blobs (use sparingly, can feel generic) | Medium |
 | Noise Texture | Subtle film grain overlay for analog warmth | Light |
 
+## Theme-Specific Inspiration
+
+### 🌆 Neon Retro
+- **Colors**: Electric cyan (#00fff5), hot magenta (#ff00aa), deep purple (#1a0030), neon yellow (#f0f000)
+- **Typography**: Monospace primary (JetBrains Mono, Space Mono), bold condensed for headers
+- **Background**: Dark (#0a0015) with subtle scanline overlay and slow-moving neon grid on the floor plane
+- **Accents**: Glowing text-shadow (0 0 20px color), box-shadow neon borders, flickering effects
+- **Transitions**: CRT glitch between slides, pixel dissolve, horizontal scanline wipe
+- **Interactive ideas**: Retro terminal prompts, neon flip cards with glow pulse, arcade-style countdown timers
+- **Mood**: Electric, confident, slightly dangerous. Like presenting from inside Tron.
+
+### 🌿 Nature Organic
+- **Colors**: Sage green (#7c9473), warm clay (#c4956a), stone grey (#8a8580), soft cream (#f5f0e8), moss (#4a5d3e)
+- **Typography**: Serif primary (Lora, Playfair Display), clean sans-serif for body (Source Sans)
+- **Background**: Warm cream/off-white with subtle paper or linen texture overlay
+- **Accents**: Rounded corners everywhere, soft shadows, SVG leaf/branch motifs as dividers
+- **Transitions**: Gentle fade with slight upward float, like a leaf rising. Crossfade with organic blur.
+- **Interactive ideas**: Growing tree diagrams (click to branch), water ripple on click, petal-scatter reveals, breathing circle timers
+- **Mood**: Calm authority. Like a TED talk in a botanical garden. Trust and warmth without being soft.
+
 ## Emotional Pacing
 
 Structure the presentation's energy like a story:
